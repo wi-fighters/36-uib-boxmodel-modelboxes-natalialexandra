@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    line-height: 1.5;
+}
+
+.primary-box {
+    padding: 2rem 0;
+    background-color: #272727;
+    color: #e9e6e6;
+}
+
+.secondary-box {
+    padding: 2rem 0;
+    background-color: #e9e6e6;
+    color: 272727;
+    border-top: 10px solid #884242;
+    border-bottom: 10px solid #884242;
+}
+
+.inside-box {
+    margin: 2rem 0;
+    padding: 1rem 0;
+    background-color: #8fb4c9;
+    color: #494949;
+}
